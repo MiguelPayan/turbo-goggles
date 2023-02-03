@@ -1,4 +1,4 @@
-# turbo-goggles
+# ProyectoDePrueba
 Primer repositorio del curso de programacion Front End.
 
 Pongámoslo a prueba.
